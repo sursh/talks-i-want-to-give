@@ -25,7 +25,7 @@ Publishing your talk ideas has a bunch of awesome benefits!
 
 ### How to make your future data team hate you
 
-Most companies are so busy getting their product and team set up that they don't think to get business logging audited. Fast forward a year or two when they can slow down and hire a data scientist: logs are missing! Critical info isn't logged, so joins are impossible! Years of insight, down the drain, all for lack of a few days work and the data know-how up front. Learn the most common mistakes made and how to prevent them. Bonus: you can use this work to show prospective data hires that you have your data shit together. 
+Most companies are so busy getting their product and team set up that they don't think to get business logging audited. Fast forward a year or two when they can slow down and hire a data scientist: logs are missing! Critical info isn't logged, so joins are impossible! Years of insight, down the drain, all for lack of a few days work and the data know-how up front. Learn the most common mistakes made and how to prevent them. Bonus: you can use this work to show prospective data hires that you have your shit together and they'll be able to hit the ground running. 
 
 (data science, data engineering, startups, hiring)
 
