@@ -4,7 +4,7 @@
 
 ## What is this?
 
-It's a list of possible talk ideas that maybe I'd like to give. It's half thinking out loud, and half soliciting feedback and CFP suggestions. 
+It's a list of possible talk ideas that maybe I'd like to give. It's half thinking out loud, and half soliciting feedback and suggestions. 
 
 Publishing your talk ideas has a bunch of awesome benefits! 
 
