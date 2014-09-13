@@ -24,3 +24,4 @@ _Please add yourself by submitting a pull request!_
 
 - [Sasha Laundy's talk ideas](https://github.com/sursh/sasha-talks-i-want-to-give)
 - [david karapetyan's talk ideas](https://github.com/davidk01/talks-i-want-to-give/)
+- [Vanessa Hurst's talk ideas](https://github.com/dbness/talks-i-want-to-give/)
