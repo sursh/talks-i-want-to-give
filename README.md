@@ -1,5 +1,10 @@
 # Talks I Want To Give
 
+## Contents
+
+[Future talk ideas](future-talks.md)
+[Past talks](past-talks.md)
+
 ## What is this?
 
 A list of talk ideas for your future self. Never come up blank at a conference call for proposals again! 
