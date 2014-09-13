@@ -27,5 +27,5 @@ Publishing your talk ideas has a bunch of awesome benefits!
 
 _Please add yourself by submitting a pull request!_
 
-- [Sasha Laundy's talk ideas](https://github.com/sursh/sasha-talks-i-want-to-give/future-talks.md)
-- [david karapetyan's talk ideas](https://github.com/davidk01/talks-i-want-to-give/future-talks.md)
+- [Sasha Laundy's talk ideas](https://github.com/sursh/sasha-talks-i-want-to-give/blob/master/future-talks.md)
+- [david karapetyan's talk ideas](https://github.com/davidk01/talks-i-want-to-give/blob/master/future-talks.md)
