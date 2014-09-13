@@ -1,3 +1,5 @@
-Put your past talks here! 
+# Talks I've Given
 
-tk example template
+Talk Title (Conference Name)
+[video](http://example.com), [slides](http://example.com)
+Abstract or summary of your talk
