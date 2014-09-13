@@ -15,7 +15,7 @@ Publishing your talk ideas has a bunch of awesome benefits!
 ## What do I do with it?
 
 1. Fork this repo! `git clone git@github.com:sursh/talks-i-want-to-give.git` 
-2. Write down your talks & ideas in [future-talks.md] and [past-talks.md]
+2. Write down your talks & ideas in [future-talks.md](future-talks.md) and [past-talks.md](past-talks.md)
 2. Add yourself to the list of talkers below! (by sending me a pull request!)
 
 ## Talkers
