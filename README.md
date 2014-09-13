@@ -22,5 +22,5 @@ Publishing your talk ideas has a bunch of awesome benefits!
 
 _Please add yourself by submitting a pull request!_
 
-- [Sasha Laundy](http://github.com/sursh)
-- [david karapetyan](https://github.com/davidk01/talks-i-want-to-give/)
+- [Sasha Laundy talk ideas](http://github.com/sursh)
+- [david karapetyan's talk ideas](https://github.com/davidk01/talks-i-want-to-give/)
