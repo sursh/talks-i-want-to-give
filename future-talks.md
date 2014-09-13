@@ -2,10 +2,23 @@
 
 Feedback welcome! Please open an issue or make a pull request.
 
-## Why you should switch to Foo open-source tool
+### Overcoming Open Source Anxiety
 
-Most people think that Baz developement is best done with Bar tool, but Foo open-source tool has an active community and is improving rapidly. At as of release 2.0, we're seeing a fully-featured, robust, reliable tool for production apps. Come hear about best practices that will save your development team hours and help them all sprout wings, and three tips that will help you hit the ground running. (Ruby, version control, agile)
+Have you always wanted to contribute to an open source project, but held back because your work didn’t seem quite right or quite ready? Open source contributions involve a lot of getting comfortable with the uncomfortable, but there are also some tips and tricks you can follow to make easing into the open source lifestyle a bit more comfortable. We’ll review reasons and methods for publishing your own open source work, and we’ll cover guidelines communities can follow to make sure established projects are as minimally anxiety-inducing as possible for contributors of all backgrounds.
 
-## Less fleshed out ideas
+### Measuring Continuous Learning
+As technology evolves, we must evolve, and continually learn in order to keep up. We're *here today* to learn. We have easy access to information, but what metrics do we have for learning? Degrees? Certifications? GitHub profiles? Klout scores? Maybe you read Hacker News every day, but do you have anything to show for it?
 
-- list a few ideas you're considering!
+We'll explore modern standards for continuous technical learning, including ways to measure and manage your own improvement. You'll walk away with a framework for better understanding your own learning and for encouraging continuous learning within your companies and teams.
+
+# Talks I might give again
+
+### Coders as Superheroes
+
+Yep, coders have superpowers. We also have some of the most effective, collaborative communities in modern society: open source development teams. Coincidence? Unlikely. We’re going to have to save the world. To prepare for our destiny, we’ll explore historical superheroes, software projects that benefit society, and ways to strengthen our powers and save the world.
+
+
+# Less fleshed out ideas
+
+ - What the social impact sector can learn from open source technology communities
+ - Unlocking the Open Source Clubhouse
