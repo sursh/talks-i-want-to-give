@@ -2,8 +2,8 @@
 
 ## Contents
 
-[Future talk ideas](future-talks.md)
-[Past talks](past-talks.md)
+- [Future talk ideas](future-talks.md)
+- [Past talks](past-talks.md)
 
 ## What is this?
 
