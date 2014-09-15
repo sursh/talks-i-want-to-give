@@ -1,1 +1,0 @@
-Coming soon. For now, please accept this [link to links](https://hackpad.com/PyCon-Prep-Further-Reading-whhe9psVa2S).
