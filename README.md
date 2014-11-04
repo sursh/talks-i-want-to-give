@@ -4,6 +4,7 @@
 
 - [Future talk ideas](future-talks.md)
 - [Past talks](past-talks.md)
+- [Talkers](talkers.md)
 
 ## What is this?
 
@@ -23,9 +24,3 @@ Publishing your talk ideas has a bunch of awesome benefits!
 2. Write down your talks & ideas in [future-talks.md](future-talks.md) and [past-talks.md](past-talks.md)
 2. Add yourself to the list of talkers below! (by sending me a pull request!)
 
-## Talkers
-
-_Please add yourself by submitting a pull request!_
-
-- [Sasha Laundy's talk ideas](https://github.com/sursh/sasha-talks-i-want-to-give/blob/master/future-talks.md)
-- [david karapetyan's talk ideas](https://github.com/davidk01/talks-i-want-to-give/blob/master/future-talks.md)
