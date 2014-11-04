@@ -5,6 +5,7 @@
 - [Future talk ideas](future-talks.md)
 - [Past talks](past-talks.md)
 - [Generic Speaker Bio](lhagemann-bio.md)
+- [Speaking Resources](speaking-resources.md)
 
 ## What is this?
 
