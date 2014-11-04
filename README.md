@@ -6,6 +6,7 @@
 - [Past talks](past-talks.md)
 - [Generic Speaker Bio](lhagemann-bio.md)
 - [Speaking Resources](speaking-resources.md)
+- [Talkers](talkers.md)
 
 ## What is this?
 
@@ -27,11 +28,3 @@ Publishing your talk ideas has a bunch of awesome benefits!
 1. Fork her repo! `git clone git@github.com:sursh/talks-i-want-to-give.git` 
 2. Write down your talks & ideas in [future-talks.md](future-talks.md) and [past-talks.md](past-talks.md)
 2. Add yourself to the list of talkers below! (by sending a pull request!)
-
-## Talkers
-
-_Please add yourself by submitting a pull request!_
-
-- [Sasha Laundy's talk ideas](https://github.com/sursh/sasha-talks-i-want-to-give/blob/master/future-talks.md)
-- [david karapetyan's talk ideas](https://github.com/davidk01/talks-i-want-to-give/blob/master/future-talks.md)
-- [Lisa Hagemann's talk ideas](http://github.com/lhagemann/talks-i-want-to-give/blob/master/future-talks.md)
