@@ -12,51 +12,49 @@ Feedback welcome! Please open an issue or make a pull request.
 * for polychronics the 'how it fits into the bigger picture' is more important than 'how long it takes (will take)' to get done.
 	* what's the value
 
-## Automating Cloud Infrastructure with Terraform in a CI/CD pipeline
-* Needs a good title
+## Automating Your Way to the Cloud: Serverless Architecture with Terraform
 * Infrastruce is code
 * Terraform is multi-cloud enabled
 * [New Terraform Oracle BMC provider](https://blogs.oracle.com/developers/terraform-and-oracle-bare-metal-cloud-services) released (not official)
 
 ### Abstract
-Your challenge: Deploy your ground-breaking industry disrupting software project onto one or more cloud platforms, do it quickly, and do it repeatedly. 
+There is no cloud, it's just someone else's computer.
 
-This is the very challenge being solved by nearly every tech team around the world on a daily basis. And don't let anyone fool you, it's easier said than done, and the landscape is always moving. 
+With the industry move away from datacenters to the cloud, costs and accessibility and speed are balanced against the loss of control, and the need to manage and orchestrate infrastructure in repeateable, automated and auditable manner.  
 
-When deploying to a cloud platform, it is expected that resources can and will disappear without notice. Some cloud platforms are more volital than others, but regardless, the ability to re-establish your infrastructure quickly, into a known working configuration, is crucial to success. When you can automate your infrastructure deployment, you are one step closer to a self-healing infrastructure.
+This presentation will share experiences and lessons learned developing a deployment strategy for a cloud-first service. Our goal: initial production deployment of a Serverless Architected service directly from our CI/CD pipeline, with no manual intervention in resource deployoment. 
 
-In this presentation we'll talk about Infrastructure as Code, and the value gained from codifying your infrastructure within a revision control system. Throughout the presentation we will introduce [Terraform](http://terraform.io), a tool that defines cloud infrastructure in configuration files that can be shared, edited, reviewed, and versioned. 
+Through this talk attendees will be introduced to [Terraform](http://terraform.io), a tool that defines cloud infrastructure in configuration files that can be shared, edited, reviewed, and versioned. 
 
-Attendees will learn how we tackled the challenge of deploying directly to a production cloud infrastructure from a CI/CD pipeline for automated deployment.
+Using Jenkins as a build tool and Terraform modules for infrastructure codification, we are able to repeatedly build and destroy our service for testing purposes and ship updates through continuous deployment.
 
 ### Introduction
-TBD
+This presentation is intended for Beginner and Intermediate level software developers, and technical managers who are interested in speeding up the time to deployment for cloud based services. 
 
-#### Notes for the GHC 2017 submission
-For the GHC 2017 Software Engineering Foundations
-Submissions to “Foundations” are expected to describe the outcomes, experiences, and challenges related to work in the foundations of engineering software as they relate to any of the listed topic areas.
+In the area of sofware automation, the mantra of Infrastructure is Code, is often spouted, but rarely followed. In this presentation I will walk through how a cloud-first service differs in deployment strategy from traditional deployments. 
 
-The Reviewers are looking for information on the following items:
-* Is the topic relevant to a track's theme?
-* Are the objectives clear and well-described?
-* Is this paper written clearly?
-* Will this presentation draw an audience?
-* Is this paper well-organized and does it flow logically?
-* Does this paper make sure that the topic is not a rehash of established facts?
-* Does this paper provide details on how the results can be repeatable?
-* Does this paper mention alternate explanations or methodologies?
-* This paper focuses purely on the technology and is not a recruiting or a product pitch. 
+With a Serverless Architecture, the testing and validation of code modifications in a CI/CD pipeline necessitate deploying a testbed infrastructure for automated testing prior to deploying changes into production. This differs from the usual functional test runs due to the need to deploy test-run specific infrastructure. As these are "one-use" resources, ensuring they are properly destroyed after test runs is a crucial part of controlling costs. Using an orchestration tool such as Terraform allows for automating these tasks. 
 
-### Outline for GHC Software Engineering Foundations focus tract
+This presentation will include architecture considerations, deployment strategy and testing practices that support rapid iterations and fit into a Continuous Integration / Continuous Deployment pipeline strategy.
+
+### Outline for GHC 2017 Software Engineering Foundations focus tract
 1. Introduction
 2. The Cloud -- it disappears
 3. Problem ... deploy into the cloud in a repeatable manner
-3. Infrastructure as Code
+	a. Differences from a traditional DataCenter deployment
+	b. Serverless Architecture, what it is and how we used it.
+4. Infrastructure as Code
   a. Repeatability
   b. Audit Trail for Changes
   c. Incorporate into CI/CD pipeline
-4. Terraform Introduction
-5. How We utilized Terraform and Docker in Jenkins to solve our automated deployment challenge
+5. Terraform Introduction
+6. Terraform State files
+	a. What they are
+	b. When they are used
+	c. Remote state storage in multi-user environments
+7. How We utilized Terraform and Docker in Jenkins to solve our automated deployment challenge
+	a. Why Docker?
+	b. Jenkins Build pipeline
 
 ### Outline for "How To"
 1. Introduction
