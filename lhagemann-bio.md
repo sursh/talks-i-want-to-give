@@ -1,0 +1,3 @@
+# Bio
+
+A well-rounded technologist with a diverse background in Web Application Development, SaaS, Cloud Computing, Web Operations/Automation and DevOps culture Lisa has never been one to focus on a single technology. As one of the early employees at Dyn, she helped build their best-in-class DNS services and lead the engineering teams. After a short hiatus, Lisa returned to Dyn and is now Principal Engineer on the Engineering Services automation team. She primarily focuses on cloud infrastructure automation and tools to support engineering continuous integration and deployment practices. Lisa's occasional ramblings about tech and tech leadership can be found at [http://blog.itsjustcode.net/](http://blog.itsjustcode.net/)
